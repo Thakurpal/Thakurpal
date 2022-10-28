@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thakurpal
 - 👀 I’m interested in webdevelopment or cybersecurity
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ...
 
 <!---
