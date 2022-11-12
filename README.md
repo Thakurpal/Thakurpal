@@ -19,10 +19,9 @@ hobbies: ["Gaming", "Cinema", "reading", "workout"]
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-<p align="center"><i class="devicon-html5-plain colored"></i></P>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
