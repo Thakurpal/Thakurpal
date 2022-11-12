@@ -1,15 +1,20 @@
 ```yaml
-### Hi there 👋
-* 👂 My name is Thakurpal singh
-* 👩 Pronouns: Thakur
-* 🔭 I’m currently working on web dev
-* 🌱 I’m currently learning HTML, Css, JavaScript
-* 🤝 I’m looking to collaborate on my projects
-* 🤔 I’m looking for help with Web stuff
-* 💬 Ask me about HTML, CSS
-* 📫 How to reach me (twitter): singh_thakurpal
-* ❤️ I love trying out something new
-* ⚡ Fun fact: not here by myself
+name: Thakurpal singh
+located_in: Assam, India
+current_job: Freshman
+education:
+  [
+    "self learning, web-tech ",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "DevOps",
+  ]
+currently_learning: ["HTML, CSS, JavaScript"]
+Goals: ["Master the basics"]
+hobbies: ["Gaming", "Cinema", "reading", "workout"]
 ```
 <!---
 Thakurpal/Thakurpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
